@@ -37,7 +37,5 @@ The system supports both **video file input** and **live webcam streams**, enabl
 - Integration with drone or CCTV monitoring systems.  
 - Real-time monitoring in sensitive conservation zones.  
 
----
 
-## 👨‍💻 Developed By  
-**Sunith B** | M.Tech Artificial Intelligence | Wildlife Protection Enthusiast  
+
