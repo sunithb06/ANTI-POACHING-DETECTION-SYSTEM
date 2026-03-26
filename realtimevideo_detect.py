@@ -10,9 +10,9 @@ from datetime import datetime
 from ultralytics import YOLO
 
 
-EMAIL_ADDRESS = 'sunithb306@gmail.com'
-EMAIL_PASSWORD = 'cbjv uxoa kwke oiwk'
-TO_EMAIL = 'sunithb06@gmail.com'
+EMAIL_ADDRESS = ''
+EMAIL_PASSWORD = ''
+TO_EMAIL = ''
 
 
 model = YOLO('best.pt')
